@@ -1,0 +1,7 @@
+streamlit
+ccxt
+pandas
+plotly
+numpy
+playwright
+playwright-stealth

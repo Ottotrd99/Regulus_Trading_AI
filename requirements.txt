@@ -5,3 +5,8 @@ plotly
 numpy
 playwright
 playwright-stealth
+streamlit
+pandas
+pandas_ta
+playwright
+playwright-stealth
